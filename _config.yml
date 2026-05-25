@@ -19,18 +19,3 @@ social:
 
 # 아바타
 avatar: /assets/img/avatar.png
-
-# 아래는 Chirpy 기본 설정들 (기능을 위해 유지)
-toc: true
-paginate: 10
-baseurl: ""
-
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      comments: true
-      toc: true
-      permalink: /posts/:title/
