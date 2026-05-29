@@ -3,19 +3,14 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
-# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
-# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
-# otherwise, the layout language will use the default value of 'ko'.
 lang: ko
 
-# Change to your timezone › https://zones.arilyn.cc
 timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 광야에서 혼자 중얼거리는 소리 # the main title
-
+title: 광야에서 혼자 중얼거리는 소리 
 tagline: 광야에서 혼자 중얼거리는 소리입니다. 침례 요한은 아니지만, 말씀을 연구하고 시대를 향한 하나님의 말씀을 작게나마 나눠보고자 합니다. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
@@ -23,17 +18,16 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://murmuringjohn.github.io"
+url: https://murmuringjohn.github.io
 
 github:
-  username: murmuringjohn # change to your GitHub username
+  username: murmuringjohn 
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: 광야에서 혼자 중얼거리는 소리
-  email: murmuringjohn@gmail.com # change to your email address
-  fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
+  email: murmuringjohn@gmail.com 
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
