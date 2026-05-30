@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<article class="px-1" data-toc="true">
+  <header class="mb-4">
+    <h1 class="post-title" style="font-weight: 800 !important;">{{ page.title }}</h1>
+
+    {% if page.subtitle %}
+      <p class="post-subtitle" style="margin-top: 0.6rem !important; margin-bottom: 1.5rem !important;">
+        {{ page.subtitle }}
+      </p>
+    {% endif %}
+    
+    <hr class="my-4">
+  </header>
+
+  <div class="content">
+    {{ content }}
+  </div>
+</article>
