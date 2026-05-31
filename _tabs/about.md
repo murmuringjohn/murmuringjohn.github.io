@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 ### 안녕하세요, 영적 분별과 개혁주의 신학을 고민하는 공간입니다.
